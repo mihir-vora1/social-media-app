@@ -170,8 +170,8 @@
 7. Run app localy with: ```python3 manage.py runserver```.
     
 ## Contributing
-<a href = "https://github.com/pixel-ops/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = pixel-ops/social-media-app"/>
+<a href = "https://github.com/mihir-vora1/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=mihir-vora1/social-media-app"/>
 </a>
 
 Made with [contributors-img](https://contrib.rocks).
