@@ -68,9 +68,18 @@
 <img src="https://github.com/mihir-vora1/social-media-app/blob/master/media/img/System-architecture-A-preselected-Social-Network-will-be-the-interface-between-customer.png" alt="architecture")
 </p>
 
-## features
+## Features
+1. Create New Account
+    - Username
+    - Email
+    - Password
+    - Password confirmation
+2. Login Account
+    - Username
+    - Password
 
-
+    
+    
 ## Setup
 
 1. Git Clone the project with: ```git clone https://github.com/ervoramihir/social-media-app.git```.
