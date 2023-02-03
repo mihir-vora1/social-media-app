@@ -29,9 +29,10 @@
 - [Introduction](#introduction)
 - [The Use Of Social Media application](#the-use-of-social-media-application)
 - [Technology Used To develop Social Media App](#techonology)
+- [Advantage and Disadvantages)[#advantage-and-disadvantages]
 - [The architecture of App](#the-architecture-of-app)
 - [Features](#features)
-- [Image](#images)
+- [App DemoImage](#app-Demo-images)
 - [Setup](#setup)
 - [Contributing](#contributing)
 - [Authors](#authors)
@@ -66,6 +67,19 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+## Advantage and Disadvantages
+|Features|Advantages|
+|--------|----------|
+|Learn about the audience | Keep up-to-date with what people are doing and what is happening in their lives|
+|Target audiences more effectively|Connections are usually made with others who share same interests|
+|Receive instant feedback from consumers’ perspective | Quick, honest, and detailed feedback from the consumers|
+
+|SN|Disadvantages|
+|--|-------------|
+|1. |There are privacy issues to consider withsocial networks.|
+|2. |Cyberbullying and peer pressure are significant issues.|
+|3. |Social networking can become a severe distraction for some people|
 
 ## The architecture of app
 <p align="center">
