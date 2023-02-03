@@ -29,10 +29,10 @@
 - [Introduction](#introduction)
 - [The Use Of Social Media application](#the-use-of-social-media-application)
 - [Technology Used To develop Social Media App](#techonology)
-- [Advantage and Disadvantages)[#advantage-and-disadvantages]
+- [Advantages And Disadvantages](#advantages-and-disadvantages)
 - [The architecture of App](#the-architecture-of-app)
 - [Features](#features)
-- [App DemoImage](#app-Demo-images)
+- [App Demo Images](#app-demo-images)
 - [Setup](#setup)
 - [Contributing](#contributing)
 - [Authors](#authors)
@@ -68,7 +68,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-## Advantage and Disadvantages
+## Advantages And Disadvantages
+
 |Features|Advantages|
 |--------|----------|
 |Learn about the audience | Keep up-to-date with what people are doing and what is happening in their lives|
@@ -169,6 +170,11 @@
 7. Run app localy with: ```python3 manage.py runserver```.
     
 ## Contributing
+<a href = "https://github.com/pixel-ops/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = pixel-ops/social-media-app"/>
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
 
     
     
