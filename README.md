@@ -1,6 +1,8 @@
 # **Social Media App**
 
-social-media-app
+<p align="center">
+<img src="https://github.com/mihir-vora1/social-media-app/blob/master/media/logo/websiter-logo.png" > 
+</p>
 
 <p align="center">
 
@@ -25,7 +27,12 @@ social-media-app
 
 ## **Contents**
 - [Introduction](#introduction)
+- [The Use Of Social Media application](#the-use-of-social-media-application)
+- [Technology Used To develop Social Media App](#techonology)
+- [The architecture of App](#the-architecture-of-app)
+- [Features](#features)
 - [Setup](#setup)
+
 
 ## Introduction
 <p align="justify">
@@ -36,7 +43,32 @@ social-media-app
 &rarr; If the image has any recent comments they will appear below those posts. Comments allow your followers to write a comment on your post. Users are notified if you “Comment” their post.) on your post.
 </p>
 
+## The Use Of Social Media application
 
+&rarr; Social media allows individuals to keep in touch with friends and extended family. Some people will use various social media applications to network and find career opportunities, connect with people across the globe with like-minded interests, and share their own thoughts, feelings, and insights online
+
+&rarr; Social media is important because it allows you to reach, nurture, and engage with your target audience — no matter their location. When a business can use social media to connect with its audience, it can use social media to generate brand awareness, leads, sales, and revenue and it also helps poor people
+
+## Techonology
+- Front-end Tech
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+- Back-end Tech
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+## The architecture of app
+<p align="center">
+<img src="https://github.com/mihir-vora1/social-media-app/blob/master/media/img/System-architecture-A-preselected-Social-Network-will-be-the-interface-between-customer.png" alt="architecture")
+</p>
+
+## features
 
 
 ## Setup
