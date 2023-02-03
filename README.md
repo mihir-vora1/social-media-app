@@ -32,6 +32,7 @@
 - [The architecture of App](#the-architecture-of-app)
 - [Features](#features)
 - [Setup](#setup)
+- [Contributing](#contributing)
 
 
 ## Introduction
@@ -115,11 +116,18 @@
 9. Creating API(Using REST APIs)
     - Creating public API  Meaning, third-party apps can  access the API from Mumble without permission.
 
-
+   
     
 ## Setup
-
-1. Git Clone the project with: ```git clone https://github.com/ervoramihir/social-media-app.git```.
+    
+### Versioning
+```
+    Python Version : python-3.6.15
+    Django Version : Django==3.2.5
+    djangorestframework Version : 3.14.0
+```
+    
+1. Git Clone the project with: ```git clone https://github.com/vora-mihir1/social-media-app.git```.
 
 2. Move to the base directory: ```cd social-media-app```
 
@@ -132,4 +140,7 @@
 6. Make migrations with: ```python manage.py makemigrations``` and then ```python3 manage.py migrate```.
 
 7. Run app localy with: ```python3 manage.py runserver```.
+    
+## Contributing
+
 
