@@ -31,8 +31,10 @@
 - [Technology Used To develop Social Media App](#techonology)
 - [The architecture of App](#the-architecture-of-app)
 - [Features](#features)
+- [Image](#images)
 - [Setup](#setup)
 - [Contributing](#contributing)
+- [Authors](#authors)
 - [License](#license)
 
 
@@ -117,7 +119,17 @@
 9. Creating API(Using REST APIs)
     - Creating public API  Meaning, third-party apps can  access the API from Mumble without permission.
 
-   
+## App Demo Images
+![app demo image](https://github.com/mihir-vora1/social-media-app/blob/master/media/img/Screenshot%20from%202021-09-13%2018-41-03.png)
+![app demo image](https://github.com/mihir-vora1/social-media-app/blob/master/media/img/Screenshot%20from%202021-09-13%2018-47-16.png)
+![app demo image](https://github.com/mihir-vora1/social-media-app/blob/master/media/img/Screenshot%20from%202021-09-13%2018-48-57.png)
+![app demo image](https://github.com/mihir-vora1/social-media-app/blob/master/media/img/Screenshot%20from%202021-09-14%2009-31-02.png)
+![app demo image](https://github.com/mihir-vora1/social-media-app/blob/master/media/img/Screenshot%20from%202021-09-14%2009-31-07%20(2).png)
+![app demo image](https://github.com/mihir-vora1/social-media-app/blob/master/media/img/Screenshot%20from%202021-09-14%2009-46-38%20(1).png)
+![app demo image](https://github.com/mihir-vora1/social-media-app/blob/master/media/img/Screenshot%20from%202021-09-14%2010-06-37.png)
+![app demo image](https://github.com/mihir-vora1/social-media-app/blob/master/media/img/Screenshot%20from%202021-09-14%2010-14-01.png)
+
+    
     
 ## Setup
     
@@ -144,13 +156,17 @@
     
 ## Contributing
 
+    
+    
+## Authors
+- [Mihir Vora](https://github.com/mihir-vora1)
 
 ## license
 All assets and code are under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) and in the public domain unless specified otherwise.
 
 The assets in `logo/`  are trademarks of their respective companies and are under their terms and license.
     
-    Copyright (c) 2017 Wolox
+    Copyright (c) 2023 Social Media App
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
     in the Software without restriction, including without limitation the rights
@@ -160,11 +176,3 @@ The assets in `logo/`  are trademarks of their respective companies and are unde
 
     The above copyright notice and this permission notice shall be included in
     all copies or substantial portions of the Software.
-
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-    THE SOFTWARE.
