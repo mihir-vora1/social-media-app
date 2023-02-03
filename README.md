@@ -170,7 +170,7 @@
 7. Run app localy with: ```python3 manage.py runserver```.
     
 ## Contributing
-<a href = "https://github.com/mihir-vora1/Python/graphs/contributors">
+<a href = "https://github.com/mihir-vora1/socia-media-app/contributors">
   <img src = "https://contrib.rocks/image?repo=mihir-vora1/social-media-app"/>
 </a>
 
