@@ -27,10 +27,10 @@
 
 ## **Contents**
 - [Introduction](#introduction)
-- [The Use Of Social Media application](#the-use-of-social-media-application)
-- [Technology Used To develop Social Media App](#techonology)
-- [Advantages And Disadvantages](#advantages-and-disadvantages)
-- [The architecture of App](#the-architecture-of-app)
+    - [The Use Of Social Media application](#the-use-of-social-media-application)
+    - [Technology Used To develop Social Media App](#techonology)
+    - [Advantages And Disadvantages](#advantages-and-disadvantages)
+    - [The architecture of App](#the-architecture-of-app)
 - [Features](#features)
 - [App Demo Images](#app-demo-images)
 - [Setup](#setup)
