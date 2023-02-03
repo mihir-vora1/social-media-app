@@ -74,11 +74,48 @@
     - Email
     - Password
     - Password confirmation
+    
 2. Login Account
     - Username
     - Password
-
     
+3. User Profile
+    - indicates how many  posts you have ("posts")
+    - indicates how many people are following you ("followers")
+    - indicates how many people you're following ("following")
+    - Other User Able To see Your Profile and Show the your Follower and Following People and  Posts in Your Account
+    - You Can Follow Another User Account and also You can Unfollow to User Account 
+    
+4. User Edit  Your Profile Account
+    - Add  Header(Background Image) Avatar
+    - Add Profile Pic
+    - Add Account Bio
+    - Change Email Id
+    - Change Username
+    - Delete Account
+    
+5. User Can Tweepy(POSTS)
+    - User Can Do  Add Either Image or Video with caption or without Caption can do
+    - User Can Do Updating Posts
+    - User Can Also Do Delete Posts 
+    
+6. User Can Like, Dislike, Comments On Posts
+
+    - User Can Do Likes On Posts  and Remove Like On Posts
+    - User Can Do Dislikes On Posts and Remove dislike On Posts
+    - User Can Do Comment On Posts
+    - Other User See The Total Like and Dislike 
+    - Other User Read The Comments on Posts  
+7. Search User Account
+    - You can search people by their name or username
+
+8. Notification System( this Feature We are Create in future )
+    - If another user likes or dislikes and comments on your post, you will get a notification that this user has liked or disliked and commented.
+    
+9. Creating API(Using REST APIs)
+    - Creating public API  Meaning, third-party apps can  access the API from Mumble without permission.
+
+
     
 ## Setup
 
