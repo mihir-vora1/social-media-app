@@ -76,11 +76,14 @@
 |Target audiences more effectively|Connections are usually made with others who share same interests|
 |Receive instant feedback from consumers’ perspective | Quick, honest, and detailed feedback from the consumers|
 
+<div align="center">
+
 |SN|Disadvantages|
 |--|-------------|
 |1. |There are privacy issues to consider withsocial networks.|
 |2. |Cyberbullying and peer pressure are significant issues.|
 |3. |Social networking can become a severe distraction for some people|
+</div>
 
 ## The architecture of app
 <p align="center">
