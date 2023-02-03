@@ -40,7 +40,7 @@
 
 
 ## Introduction
-<p align="justify">
+
 &rarr; After the online sign-up or Login process, users can sharing photos and videos with Type your caption(Get creative and write a nice, interesting caption to go with your photo and Video.) called "tweepy". 
 
 &rarr; Then your followers can see your post then your followers can Like(Clicking Like Button below a post on Mumble way to let people know that you enjoy it without leaving a comment. Just like a comment, anyone who can see the post can see that you liked it and The person who posted the video will get a notification that you liked it.When you like something, this lets us know to show you other content that we think you’d also like to see) or DisLike(If you dislike your post, it means that the user did not like your post - image or video and caption) and Comment(Below every posts there are “Comment” buttons. 
